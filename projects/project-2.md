@@ -1,17 +1,17 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/CTG.jpg
+title: Cadet Training Group
+permalink: projects/cadet training group
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2016-12-26 - 2016-12-31
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Leadership
+  - Youth Development
+  - Civil Air Patrol
+  - Cadet Programs
+summary: A weeklong Cadet Training Encampment, culminating six years of leadership development as a Cadet.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
