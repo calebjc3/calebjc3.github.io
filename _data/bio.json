@@ -1,57 +1,52 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Caleb Cheshire",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://calebjc3.github.io/images/pic.png",
+    "email": "calebjc3@hawaii.edu",
+    "phone": "808-221-0532",
+    "website": "https://calebjc3.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96707",
+      "city": "Kapolei",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "calebjc3",
+        "url": "http://github.com/calebjc3"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "Caleb Cheshire",
+        "url": "http://linkedin.com/in/calebjcheshire"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "flyingcj",
+        "url": "http://instagram.com/flyingcj/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Web Design",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Air Force",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Aerospace Systems",
       "keywords": [
       ]
     }
