@@ -28,25 +28,25 @@
       {
         "network": "instagram",
         "username": "flyingcj",
-        "url": "http://instagram.com/changeme"
+        "url": "https://www.instagram.com/flyingcj/"
       }
     ]
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "game development",
+      "name": "Game Development",
       "keywords": [
       ]
     },
     {
-      "name": "web design",
+      "name": "Web Design",
       "keywords": [
       ]
     }
