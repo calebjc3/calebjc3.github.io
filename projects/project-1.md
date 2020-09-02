@@ -14,8 +14,8 @@ summary: My team developed a password manager application to store user's passwo
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/ace1.jpg">
   <img class="ui image" src="../images/ace2.jpg">
+  <img class="ui image" src="../images/ace1.jpg">
 </div>
 
 Ace Password Manager (Ace PW) is a simplistic yet secure password manager that leverages the abilites of Java, as well as the principles Microsoft's Secure Development Life-Cycle to create an application for users to store usernames and passwords in a local client as well as a secure .txt file.
