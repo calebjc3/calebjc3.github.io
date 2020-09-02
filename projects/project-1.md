@@ -10,7 +10,7 @@ labels:
   - Java
   - Security
   - Software
-summary: My team developed a password manager application to store user's passwords and keep them secure using encryption and other security features.
+summary: A secure password manager application developed by my team for ICS 427, Summer 2020
 ---
 
 <div class="ui small rounded images">
