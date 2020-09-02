@@ -5,7 +5,7 @@ image: images/CTG.jpg
 title: Cadet Training Group
 permalink: projects/cadet training group
 # All dates must be YYYY-MM-DD format!
-date: 2016-12-26 - 2016-12-31
+date: 2016-12-31
 labels:
   - Leadership
   - Youth Development
