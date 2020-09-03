@@ -24,11 +24,6 @@
         "network": "linkedin",
         "username": "Caleb Cheshire",
         "url": "http://linkedin.com/in/calebjcheshire"
-      },
-      {
-        "network": "instagram",
-        "username": "flyingcj",
-        "url": "http://instagram.com/flyingcj/"
       }
     ]
   },
@@ -85,14 +80,6 @@
       "endDate": "Present",
       "gpa": "3.67",
       "courses": [
-        "ICS 111",
-        "ICS 141",
-        "ICS 211",
-        "ICS 212",
-        "ICS 241",
-        "ICS 427",
-        "ICS 311",
-        "ICS 314"
       ]
     }
   ],
