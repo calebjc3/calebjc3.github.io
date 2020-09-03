@@ -60,71 +60,79 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Windows OS",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Eclipse",
+        "Google Suite",
+        "Microsoft Office",
+        "IntelliJ"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-08-20",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.67",
       "courses": [
+        "ICS 111",
+        "ICS 141",
+        "ICS 211",
+        "ICS 212",
+        "ICS 241",
+        "ICS 427",
+        "ICS 311",
+        "ICS 314"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Applegate Christian Fellowship",
+      "position": "Grounds Keeper",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2016-06-01",
+      "endDate": "2019-08-03",
+      "summary": "Cared for the landscaping and maintenance of the campus",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Operated equipment and machinery to maintain an impeccable landscaping appearance",
+        "Led small teams to perform skilled tasks or labor"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "US Soccer Association" ,
+      "position": "Referee",
+      "website": "https://www.ussoccer.com/referee-program",
+      "startDate": "2013-09-01",
+      "endDate": "2019-06-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Officiated youth soccer matches, ensuring the safety of the teams and spectators",
+        "Managed safety concerns, laws of the game, security of the pitch, and decorum of onlookers"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Civil Air Patrol",
+      "website": "https://www.gocivilairpatrol.com/",
+      "position": "Captain",
+      "startDate": "2011-08-04",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Senior Member (former Cadet)",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Lead cadets and develop them as future leaders for the United States",
+        "Inspire a new generation of aerospace pioneers and professionals"
       ]
     },
     {
@@ -143,16 +151,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Air Force ROTC Scholarship",
+      "date": "2018-Present",
+      "awarder": "U.S. Air Force ROTC",
+      "summary": "Scholarships awarded to incoming freshmen and current cadets who demonstrate academic, military, and personal excellence."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Meritorious Service Medal",
+      "date": "2016",
+      "awarder": "Oregon-Alaska Civil Air Patrol Encampment",
+      "summary": "Led a staff of 50 cadets to provide a basic training course to approximately 100 cadets from across the United States. See portfolio projects for additional details."
     }
   ],
   "references": [
