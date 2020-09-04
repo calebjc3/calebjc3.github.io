@@ -14,7 +14,7 @@ labels:
 summary: A space-themed computer game I designed for ICS 111.
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/starwars1.png">
   <img class="ui image" src="../images/starwars2.png">
 </div>
