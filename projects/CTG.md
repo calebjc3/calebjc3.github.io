@@ -14,8 +14,10 @@ labels:
 summary: I commanded the cadet staff at a week-long military-style training course.
 ---
 
-<img class="ui medium right floated rounded image" src="https://github.com/calebjc3/calebjc3.github.io/blob/master/images/CTG%20Photo%20(2).jpg">
-<img class="ui medium right floated rounded image" src="https://github.com/calebjc3/calebjc3.github.io/blob/master/images/Exec%20Eyes%20right%20(2).jpg">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/CTG%20Photo%20(2).jpg">
+  <img class="ui image" src="../images/Exec%20Eyes%20right%20(2).jpg">
+</div>
 
 Encampment is a week-long training activity that serves as a basic training for Civil Air Patrol cadets across the nation. As the Cadet Commander, I served for a four month period planning, organizing and executing the activity as the senior cadet responsible for nearly 150 other cadet staff and students. 
 
