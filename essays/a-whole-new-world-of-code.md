@@ -10,7 +10,7 @@ labels:
   - Coding
 ---
 
-<img class="ui tiny right spaced image" src="https://github.com/calebjc3/calebjc3.github.io/blob/master/images/js.jpg">
+<img class="ui medium right floated rounded image" src="../images/js.jpg">
 
 ## The Old World
 
