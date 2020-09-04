@@ -23,4 +23,4 @@ Encampment is a week-long training activity that serves as a basic training for 
 
 This Encampment was the first year of a historic partnership between Oregon and Alaska, and my job necessitated laying the groundwork for a new system of cooperation. A restructing of the curriculum and operations plan were necessary, and needed to be fit into a smaller time frame. I organized my staff and produced an effective plan that resulted in a successful activity and graduation for 100 new cadet leaders from all over the United States.
 
-See more about the Civil Air Patrol Cadet Program at https:/gocivilairpatrol.com
+See more about the Civil Air Patrol Cadet Program at [GoCivilAirPatrol.com](https:/gocivilairpatrol.com).
