@@ -13,7 +13,7 @@ labels:
 summary: A secure password manager application developed by my team for ICS 427.
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/ace2.jpg">
   <img class="ui image" src="../images/ace1.jpg">
 </div>
