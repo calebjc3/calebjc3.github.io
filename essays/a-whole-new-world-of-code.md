@@ -14,7 +14,7 @@ labels:
 
 ## The Old World
 
-The first semester of my Junior year as a computer science student comes around and I think "Here we go, gotta take software engineering. Long hours of typing away in my development environment and trying to understand yet another language with all of its inflexible rules." Based off of the experience I have had with Java, C, and C++, I've gotten used to coming up with a way to solve my coding problem, only to be bluntly informed by the language syntax that my solution is "not allowed". While I did not at all enjoy that, I just assumed that every programming language had a rigid set of rules, and that I might as well get used to inputting exact parameters in order to make my code run. And then I met JavaScript.
+The first semester of my Junior year as a computer science student comes around and I think "Here we go, I have to take software engineering. Long hours of typing away in my development environment and trying to understand yet another language with all of its inflexible rules." Based off of the experience I have had with Java, C, and C++, I've gotten used to coming up with a way to solve my coding problem, only to be bluntly informed by the language syntax that my solution is "not allowed". While I did not at all enjoy that, I just assumed that every programming language had a rigid set of rules, and that I might as well get used to inputting exact parameters in order to make my code run. And then I met JavaScript.
 
 ## New Potential
 
