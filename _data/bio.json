@@ -125,18 +125,23 @@
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
+      "position": "Air Force ROTC Positions",
+      "startDate": "2018-08-20",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "General Military Course Advisor, AS200 Class, Spring 2020",
+        "Cadet Wing Physical Fitness Officer, August 2020-Present"
       ]
     }
   ],
   "awards": [
+     {
+      "title": "Achievement Award",
+      "date": "2020",
+      "awarder": "Air Force ROTC, Detachment 175, UH Manoa",
+      "summary": "For outstanding performance as a General Military Course cadet. Awarded to no more than the top 25% of the Cadet Wing."
+    }
     {
       "title": "Air Force ROTC Scholarship",
       "date": "2018-Present",
