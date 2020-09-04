@@ -14,7 +14,7 @@ labels:
 summary: I commanded the cadet staff at a week-long military-style training course.
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/CTG%20Photo%20(2).jpg">
   <img class="ui image" src="../images/Exec%20Eyes%20right%20(2).jpg">
 </div>
