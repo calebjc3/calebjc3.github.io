@@ -24,3 +24,4 @@ Star Wars Dodgeball is a computer-based, space themed game designed as one of my
 The game uses basic elements of EZ Java to create a simple, yet fun-to-play 2-dimensional game. Players control their X-Wing using the arrow keys, and must stay clear of missiles for as long as possible. The graphics are simplistic, but leverage the abilities of third party artists by utilizing previously created clip art of vehicles, backgrounds, etc. The game also includes a decent soundtrack, providing background music, collision effects, collision warnings, game over tone, as well as the ominous message of Darth Vader himself. While simple, the game has the ability to be expanded, and the code provides a baseline for any similar dodgeball game.
 
 Watch the full gameplay on [YouTube](https://www.youtube.com/watch?v=PifG8UwMESg)
+View the repository on [GitHub](https://github.com/calebjc3/Star-Wars-Dodgeball)
