@@ -25,8 +25,7 @@ Everyone always looks for the easy way out of things. As a programmer, I will ad
 
 Okay, there will eventually come that time when you have pulled nearly every bit of hair out of your head and still cannot sort out the issue. Then, go for help. Your hours of toil were not wasted; you are essentially an expert on the problem, and just need someone who is an expert on the solution. Be professional, respectful, and concise. Don't waste the other person's time with too much (or too little) information. Provide all the helpful data that you can, and be ready and willing to work with the person you're asking in order to find and understand a solution. Make sure that you clearly state the goal that you are trying to achieve, and carefully explain the symptoms of the problem that you are facing. Ultimately, if you want to ask smart questions, do your research and come prepared. 
 
-These tips and more can be read in Eric Raymond's essay, 
-["How To Ask Questions The Smart Way"](http://www.catb.org/esr/faqs/smart-questions.html)
+Read more tips in Eric Raymond's essay, ["How To Ask Questions The Smart Way"](http://www.catb.org/esr/faqs/smart-questions.html)
 
 ## Smart Opposed to Stupid
 
