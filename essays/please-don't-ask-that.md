@@ -19,15 +19,18 @@ Yes, we've all heard it: "No such thing as a stupid question." I always feel tem
 
 ## Try, Try Again
 
-Everyone always looks for the easy way out of things. As a programmer, I will admit it is very tempting to jump straight to asking for help the minute I run into a problem. It is so much faster to copy and paste your code into a site such as StackOverflow, rather than taking the time to sit down, carefully examine your program, and try to isolate the issue. But the longer way is usually better, at least in the end. When you ask someone to figure out your problem for you, there is minimal, if any, learning involved. How are you supposed to understand why something did what it did if someone replys: "Put this here and it will work. See ya"? Yes, you got your solution but did you understand how it works? I believe one of the best ways that I learn programming languages is when I run into a problem and then I figure out what is causing it and correct it. It is a much greater learning moment when you find a missing semi-colon and say "there it is! I'll never do that again", than when someone just fixes the error for you.
+Everyone always looks for the easy way out of things. As a programmer, I will admit it is very tempting to jump straight to asking for help the minute I run into a problem. It is so much faster to copy and paste your code into a site such as StackOverflow, rather than taking the time to sit down, carefully examine your program, and try to isolate the issue. But the longer way is usually better, at least in the end. When you ask someone to figure out your problem for you, there is minimal, if any, learning involved. How are you supposed to understand why something did what it did if someone replys: "Put this here and it will work"? Yes, you got your solution but did you understand how it works? I believe one of the best ways that I learn how to code is when I run into a problem, then l)igure out what is causing it and correct it. It is a much greater learning moment when you find a missing semi-colon and say "there it is! I'll never do that again", than when someone just fixes the error for you.
 
 ## If At LAST You Don't Succeed...
 
-Okay, there will eventually come that time when you have pulled nearly every bit of hair out of your head and still cannot sort out the issue. Then, go for help. Your hours of toil were not wasted; you are essentially an expert on the problem, and just need someone who is an expert on the solution. Be professional, respectful, and concise. Don't waste the other person's time with too much (or too little) information. Provide all the helpful data that you can, and be ready and willing to work with the person you're asking in order to find and understand a solution. 
+Okay, there will eventually come that time when you have pulled nearly every bit of hair out of your head and still cannot sort out the issue. Then, go for help. Your hours of toil were not wasted; you are essentially an expert on the problem, and just need someone who is an expert on the solution. Be professional, respectful, and concise. Don't waste the other person's time with too much (or too little) information. Provide all the helpful data that you can, and be ready and willing to work with the person you're asking in order to find and understand a solution. Make sure that you clearly state the goal that you are trying to achieve, and carefully explain the symptoms of the problem that you are facing. Ultimately, if you want to ask smart questions, do your research and come prepared. 
+
+These tips and more can be read in Eric Raymond's essay, ["How To Ask Questions The Smart Way"](http://www.catb.org/esr/faqs/smart-questions.html)
 
 ## Smart Opposed to Stupid
 
 Always do your best to ask the smartest question(s). As an example, this is a question posted on StackOverflow that demonstrates some elements of smart questioning:
+
 [Good StackOverflow Question](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 
 This poster began his question with a clear but concise summary. He provided his code, the data he had collected, and some information on additional testing that he had performed in a different coding language prior to posting the question. He discussed some of the things that he had been considering, and demonstrated that he had put some thought into the problem before asking his question. As a result, his question received a lot of attention, and sparked plentiful discussion to find an answer.
@@ -35,6 +38,7 @@ This poster began his question with a clear but concise summary. He provided his
 Contrast this with the next question:
 
 This question, also posted to StackOverflow, is an example of a stupid question:
+
 [Bad StackOverflow Question](https://stackoverflow.com/questions/4183955/need-help-in-linq)
 
 The person who asked this question followed essentially none of the tips for asking smart questions. Their title is very vague and just requests "help". They post a small bit of code with little context and simply ask the other members to "please debug". It would appear to be a blatant case of asking others to do their work for them. They do not demonstrate that they have done anything towards solving the problem, and they provide no additional information to help facilitate an answer. Quite clearly, they have no intention of learning from their question.
