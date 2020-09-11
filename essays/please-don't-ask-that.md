@@ -5,10 +5,10 @@ title: Please Don't Ask That...
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-04
 labels:
-  - Seeking Help
+  - Coding Culture
   - Programming
   - Software Engineering
-  - Coding Culture
+  - Smart Questions
 ---
 
 <img class="ui medium right floated rounded image" src="../images/coders_block-100531704-gallery.idge_.jpg">
