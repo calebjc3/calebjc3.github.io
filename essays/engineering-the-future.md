@@ -8,6 +8,7 @@ labels:
   - Software Engineering
   - Coding
   - Computer Science Student
+  - Technology Development
 ---
 
 <img class="ui medium right floated rounded image" src="../images/bhanu.jpg">
