@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Road to the Green Checkmark
+title: The Road to the Little Green Checkmark
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-24
 labels:
@@ -27,4 +27,4 @@ I have utilized multiple IDEs and code quality checkers over the past couple of 
 
 ## Saving Time, Coding Better, Helping Others
 
-When you spend the time to properly set up a development environment with the tools that will help you, it is undeniable that you will work better as a programmer. Not only will you write cleaner code and run into fewer problems, your attempts at collaboration will meet with much more success. When you apply a common standard to your work, it will be all that more familiar to your fellow software engineers. Ultimately, coding standards help (some might even say force) you to be a much, much better programmer. If you're willing to put in the work and careful preparation required to set up your tools, and apply the standards required to write good code, you will reap the rewards for years to come.
+When you spend the time to properly set up a development environment with the tools that will help you, it is undeniable that you will work better as a programmer. Not only will you write cleaner code and run into fewer problems, your attempts at collaboration will meet with much more success. When you apply a common standard to your work, it will be all that more familiar to your fellow software engineers. Ultimately, coding standards help (some might even say force) you to be a much, much better programmer. If you're willing to put in the work and careful preparation required to set up your tools, and apply the standards required to write good code, you will reap the rewards for years to come. Oh, also: finally getting that little green checkmark feels pretty good, too.
