@@ -1,29 +1,30 @@
 ---
 layout: essay
 type: essay
-title: A Whole New World of Code
+title: The Road to the Green Checkmark
 # All dates must be YYYY-MM-DD format!
-date: 2020-09-03
+date: 2020-09-24
 labels:
-  - Software Engineering
+  - IDEs
   - JavaScript
-  - Coding
+  - Coding Standards
+  - IntelliJ Idea
 ---
 
-<img class="ui medium right floated rounded image" src="../images/js.jpg">
+<img class="ui medium right floated rounded image" src="../images/standards.jpeg">
 
-## The Old World
+## Squiggles, Lightbulbs and Red X's...Oh My
 
-The first semester of my Junior year as a computer science student comes around and I think "Here we go, I have to take software engineering. Long hours of typing away in my development environment and trying to understand yet another language with all of its inflexible rules." Based off of the experience I have had with Java, C, and C++, I have gotten used to coming up with a way to solve my coding problem, only to be bluntly informed by the language syntax that my solution is "not allowed". While I did not at all enjoy that, I just assumed that every programming language had a rigid set of rules, and that I might as well get used to inputting exact parameters in order to make my code run. And then I met JavaScript.
+You know the feeling: you spend all day working on a bit of code, figuring out syntax and trying to get it to work, and then you're finally rewarded with the proper output in the console. But wait! Before you can call it good and submit your project, you have to fix all those little error warnings all over your development environment. Okay, not too hard, right? Just see what the error is and go fix what it tells you. So you do that...and there goes functionality. Your code gets all messed up, you can't find anything anymore, and all sorts of things change. So why should anyone want to obey all those nagging little error messages? While it may be annoying, there is a very good reason for it.
 
-## New Potential
+## Clean Code is the Best Code
 
-Even though I have only learned the basic bones of JavaScript, I am enthusiastic for the potential change it will have on my coding habits. While it is by no means a "perfect" language (does such a thing exist?), the flexibility of JavaScript has launched me into a new realm of possibilities. Yes, at first it seemed much like the languages I had dealt with in the past, such as Java. Obviously, with the name JavaScript, it has to be some kind of cousin. Yet once I started trying to use it, I realized how forgiving it could be compared to its relative. As I completed my tutorials, I began to realize how much more I was accomplishing with such simple and easy-to-read code. What? Just throw a new variable in and don't worry if it conflicts with others in the array? Can I do that? Spoiler: you can in JavaScript. Maybe less like Java's cousin and more like a cool uncle who gives you a lot of slack. The flexibility just makes me that much more excited to write programs now that I can use even more of my creativity to code.
+Why should you use tools to enforce coding standards? Isn't it easier to just create your code and put it into an IDE, make sure the syntax works, and then run it? Why waste time on needless "grammar" rules when the program still runs anyway? The biggest reason: coding standards make you write better code. By using coding standards, you learn to make your program work without needless bloating. You can get rid of variables you don't need, shorten the code required for functions, and use the most efficient operators. Tools that enforce coding standards are like a close friend who's not scared to tell you you're wrong. Yes, they're unforgiving, but they force you to perform to a higher level of coding excellence, and that is by all means a good thing. By accepting the fact that the IDE and its tools are better than even the sharpest eye at spotting typos and small errors, you will be able to use the tools to your advantage and form an ideal work flow. Not only do coding standards help you write clean, efficient code, it can help your code work in the first place.
 
-## Being a Computer Athlete
+## The Standards Have Your Back
 
-So now that I have less rules and picky syntax errors holding me back, how does that change my coding style? Previously, I would spend long hours on segments of code, examining every character to ensure the program would run. Now, I can write simpler code faster. So why wouldn't I? Especially as a software engineering student, where our class is designed to teach "athletic coding". With JavaScript, I can sit down to a problem and code a solution so much faster, with less lines of code and more intuitive declarations. This helps with the "Workouts of the Day" (WODs) that we do in class. These quick coding problems require just a few lines of code to solve them, and while they are challenging and even a bit stressful at times, I think that they could really help me to think through and produce my code much faster than before. JavaScript makes that kind of demanding, athletic coding easy...I don't think I would have a chance if I was using C++ or Java. Once you allow for more creativity on the part of the engineer, software can be created in more efficient and intuitive ways.
+I have utilized multiple IDEs and code quality checkers over the past couple of years as a computer science student, and quite often, coding standards have simply been another hurdle that made assignments more difficult and time-consuming. Yet recently, studying software engineering, I have realized how key the coding standards are to programming. Over the past weeks, I have been learning a new IDE, IntelliJ Idea, along with standards for a new language, JavaScript. Believe it or not, the coding standards that are expected for my class have been helping me solve the coding problems that I face. I cannot tell you how many times I have written code without an IDE or quality checker and spent lengthy amounts of time debugging it only to realize I misspelled a single parameter. Yet, with a properly configured coding standards checker, that would never be an issue. If I created a function "checkNums" and then called it later, spelling it "checkNum", my tools would immediately tell me that "checkNum is not declared" or something along those lines. Thus, with the proper application of tools, I could potentially save *hours* of debugging time. From my perspective, this is game-changing.
 
-## New Horizons
+## Saving Time, Coding Better, Helping Others
 
-Although I'm still only a Junior in college, I'm beginning to see the possibilities that lie ahead with coding. I'm hopeful that I won't be stuck in my IDE all the time, grinding away at stiff, inflexible code. Rather, I hope to be solving problems in the most simplistic, creative, and efficient ways possible. Completing projects quickly and keeping an athletic pace, no matter what challenge I'm facing, is an exciting prospect. And while JavaScript might not quite be a magic carpet ride (to borrow a Disney reference), it has definitely given me a whole new perspective.
+When you spend the time to properly set up a development environment with the tools that will help you, it is undeniable that you will work better as a programmer. Not only will you write cleaner code and run into fewer problems, your attempts at collaboration will meet with much more success. When you apply a common standard to your work, it will be all that more familiar to your fellow software engineers. Ultimately, coding standards help (some might even say force) you to be a much, much better programmer. If you're willing to put in the work and careful preparation required to set up your tools, and apply the standards required to write good code, you will reap the rewards for years to come.
