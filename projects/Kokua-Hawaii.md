@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/AcePW.png
+image: images/kokua.png
 title: Kokua Hawai'i
-permalink: projects/AcePW
+permalink: projects/Kokua Hawai'i
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-18
 labels:
