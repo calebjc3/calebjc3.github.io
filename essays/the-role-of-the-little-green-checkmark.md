@@ -13,7 +13,7 @@ labels:
 
 <img class="ui medium right floated rounded image" src="../images/standards.jpeg">
 
-## Squiggles, Lightbulbs and Red X's...Oh My
+## Squiggles, Light-bulbs and Red X's...Oh My
 
 You know the feeling: you spend all day working on a bit of code, figuring out syntax and trying to get it to work, and then you're finally rewarded with the proper output in the console. But wait! Before you can call it good and submit your project, you have to fix all those little error warnings all over your development environment. But why? The code works, and changing it is just going to require a lot more work. For what? Your code gets all messed up, you can't find anything anymore, and all sorts of things change. So why should anyone want to obey all those nagging little error messages? While it may be annoying, there is a very good reason for it.
 
