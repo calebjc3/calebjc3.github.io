@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/kokua.png
+image: images/kokua2.png
 title: Kokua Hawai'i
 permalink: projects/Kokua Hawai'i
 # All dates must be YYYY-MM-DD format!
@@ -14,7 +14,7 @@ summary: Done as my final group project for ICS 314, Fall 2020 at UH Manoa.
 ---
 
 <div class="ui large rounded images">
-  <img class="ui image" src="../images/kokua.png">
+  <img class="ui image" src="../images/kokua1.png">
 </div>
 
 Kokua Hawai'i (aka "COVID Kokua) is a simplistic web application that my team and I designed as our final project for ICS 314, Software Engineering at UH Manoa. The basic concept is to serve as a common hub for a wide array of COVID-19 resources. These include financial aid, student services, and social resources, all with the goal of helping as many people through the tough times of coronavirus. 
