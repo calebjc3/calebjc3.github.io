@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "calebjc3",
-        "url": "http://github.com/calebjc3"
+        "username": "***",
+        "url": ""
       },
       {
         "network": "linkedin",
@@ -111,48 +111,44 @@
   ],
   "volunteer": [
     {
-      "organization": "Civil Air Patrol",
-      "website": "https://www.gocivilairpatrol.com/",
-      "position": "Captain",
-      "startDate": "2011-08-04",
-      "endDate": "Present",
-      "summary": "Senior Member (former Cadet)",
+      "organization": "CAP",
+      "website": ,
+      "position": ,
+      "startDate": ,
+      "endDate": ,
+      "summary":,
       "highlights": [
-        "Lead cadets and develop them as future leaders for the United States",
-        "Inspire a new generation of aerospace pioneers and professionals"
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Air Force ROTC Positions",
-      "startDate": "2018-08-20",
+      "position": "",
+      "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "General Military Course Advisor, AS200 Class, Spring 2020",
-        "Cadet Wing Physical Fitness Officer, August 2020-Present"
       ]
     }
   ],
   "awards": [
      {
-      "title": "Achievement Award",
-      "date": "2020",
-      "awarder": "Air Force ROTC, Detachment 175, UH Manoa",
-      "summary": "For outstanding performance as a General Military Course cadet. Awarded to no more than the top 25% of the Cadet Wing."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "Air Force ROTC Scholarship",
-      "date": "2018-Present",
-      "awarder": "U.S. Air Force ROTC",
-      "summary": "Scholarships awarded to incoming freshmen and current cadets who demonstrate academic, military, and personal excellence."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "Meritorious Service Medal",
-      "date": "2016",
-      "awarder": "Oregon-Alaska Civil Air Patrol Encampment",
-      "summary": "Led a staff of 50 cadets to provide a basic training course to approximately 100 cadets from across the United States. See portfolio projects for additional details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
