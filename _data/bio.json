@@ -9,8 +9,8 @@
     "summary": "I am a student studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96707",
-      "city": "Kapolei",
+      "postalCode": "",
+      "city": "",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -22,8 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "Caleb Cheshire",
-        "url": "http://linkedin.com/in/calebjcheshire"
+        "username": "",
+        "url": "http://linkedin.com"
       }
     ]
   },
@@ -77,9 +77,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2022)",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2018-08-20",
+      "startDate": "",
       "endDate": "Present",
       "gpa": "3.67",
       "courses": [
@@ -88,27 +88,24 @@
   ],
   "work": [
     {
-      "company": "Applegate Christian Fellowship",
-      "position": "Grounds Keeper",
+      "company": "***",
+      "position": "***",
       "website": "",
-      "startDate": "2016-06-01",
-      "endDate": "2019-08-03",
-      "summary": "Cared for the landscaping and maintenance of the campus",
+      "startDate": "***",
+      "endDate": "***",
+      "summary": "***",
       "highlights": [
-        "Operated equipment and machinery to maintain an impeccable landscaping appearance",
-        "Led small teams to perform skilled tasks or labor"
       ]
     },
     {
-      "company": "US Soccer Association" ,
-      "position": "Referee",
-      "website": "https://www.ussoccer.com/referee-program",
-      "startDate": "2013-09-01",
-      "endDate": "2019-06-15",
+      "company": "***" ,
+      "position": "***",
+      "website": "***",
+      "startDate": "***",
+      "endDate": "***",
       "summary": "",
       "highlights": [
-        "Officiated youth soccer matches, ensuring the safety of the teams and spectators",
-        "Managed safety concerns, laws of the game, security of the pitch, and decorum of onlookers"
+      
       ]
     }
   ],
